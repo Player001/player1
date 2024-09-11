@@ -1,2 +1,7 @@
 # player1 repository
-A very mindful, very cutesy, and very demure repository
+This repository is:
+- very mindful, 
+- very cutesy, 
+- very demure
+
+DCISM
