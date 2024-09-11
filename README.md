@@ -1,2 +1,2 @@
-# player1
-A very demure repository
+# player1 repository
+A very mindful, very cutesy, and very demure repository
